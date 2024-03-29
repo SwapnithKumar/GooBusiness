@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swapnith-goobusiness/static/css/main.3571f93c.css",
+    "main.js": "/swapnith-goobusiness/static/js/main.faf9d694.js",
+    "static/js/453.64512fd7.chunk.js": "/swapnith-goobusiness/static/js/453.64512fd7.chunk.js",
+    "index.html": "/swapnith-goobusiness/index.html",
+    "main.3571f93c.css.map": "/swapnith-goobusiness/static/css/main.3571f93c.css.map",
+    "main.faf9d694.js.map": "/swapnith-goobusiness/static/js/main.faf9d694.js.map",
+    "453.64512fd7.chunk.js.map": "/swapnith-goobusiness/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3571f93c.css",
+    "static/js/main.faf9d694.js"
+  ]
+}
